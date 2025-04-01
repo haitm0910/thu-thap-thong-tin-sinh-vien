@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">THBuoi1</string>
+    <string name="thong_tin_sinh_vien">Thông tin sinh viên</string>
+    <string name="ho_va_ten">Họ và tên:</string>
+    <string name="nhap_ho_va_ten">Nhập họ và tên</string>
+    <string name="mssv">MSSV:</string>
+    <string name="nhap_mssv">Nhập MSSV</string>
+    <string name="lop">Lớp:</string>
+    <string name="nhap_lop">Nhập lớp</string>
+    <string name="sdt">SĐT:</string>
+    <string name="nhap_sdt">Nhập số điện thoại</string>
+
+
+</resources>
